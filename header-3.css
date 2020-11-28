@@ -1,0 +1,528 @@
+.second_title {
+
+    position: absolute;
+    width: 1200.01px;
+    height: 30.49px;
+    left: 144.07px;
+    top: 1030.06px;
+    font-family: 'Gilroy-Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24.95px;
+    line-height: 30px;
+    color: #222222;
+
+}
+
+.second_text {
+
+    position: absolute;
+    width: 344.130px;
+    line-height: 30px;
+    left: 144.07px;
+    top: 1090.19px;
+    font-family: 'Gilroy-Bold';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.5542px;
+    line-height: 150%;
+    color: #73738D;
+
+}
+
+.four_girl {
+
+    position: absolute;
+    width: 41.58px;
+    height: 41.58px;
+    left: 780.39px;
+    top: 1055.69px;
+    border-radius: 38.2012px;
+}
+
+.Archana {
+
+    position: absolute;
+    width: 200.7px;
+    height: 20.1px;
+    left: 830.29px;
+    top: 1050.47px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.6333px;
+    line-height: 20px;
+    color: #222222;
+
+}
+
+
+.consultant {
+
+    position: absolute;
+    width: 200.23px;
+    height: 13.17px;
+    left: 832.29px;
+    top: 1070.34px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 13px;
+    color: rgba(34, 34, 34, 0.8);
+
+}
+
+.information {
+
+    position: absolute;
+    width: 200.24px;
+    height: 11.09px;
+    left: 780.39px;
+    top: 1105.91px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9.70278px;
+    line-height: 11px;
+    color: rgba(34, 34, 34, 0.6);
+}
+
+
+.fifth_photo {
+
+    position: absolute;
+    width: 12.48px;
+    height: 12.48px;
+    left: 784.08px;
+    top: 1140.85px;
+}
+
+.sixth_photo {
+
+    position: absolute;
+    width: 12.48px;
+    height: 12.48px;
+    left: 784.08px;
+    top: 1175.85px;
+}
+
+.seventh_photo {
+
+    position: absolute;
+    width: 12.48px;
+    height: 12.48px;
+    left: 784.08px;
+    top: 1210.85px;
+}
+
+.date {
+
+    position: absolute;
+    width: 100.07px;
+    height: 13.17px;
+    left: 805.56px;
+    top: 1130.86px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 13px;
+    color: rgba(34, 34, 34, 0.8);
+}
+
+.work {
+
+    position: absolute;
+    width: 200.23px;
+    height: 13.17px;
+    left: 805.56px;
+    top: 1165.35px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 13px;
+    color: rgba(34, 34, 34, 0.8);
+}
+
+.travel {
+
+    position: absolute;
+    width: 300.83px;
+    height: 13.17px;
+    left: 805.56px;
+    top: 1200.85px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 120%;
+    color: rgba(34, 34, 34, 0.8);
+}
+
+.green_tick3 {
+
+    position: absolute;
+    width: 9.24px;
+    height: 6.93px;
+    left: 144.07px;
+    top: 1215.69px;
+}
+
+.green_tick4 {
+
+    position: absolute;
+    width: 9.24px;
+    height: 6.93px;
+    left: 144.07px;
+    top: 1255.96px;
+}
+
+.green_tick5 {
+
+    position: absolute;
+    width: 9.24px;
+    height: 6.93px;
+    left: 287.53px;
+    top: 1215.69px;
+}
+
+.green_tick6 {
+
+    position: absolute;
+    width: 9.24px;
+    height: 6.93px;
+    left: 287.53px;
+    top: 1255.96px;
+}
+
+.available {
+
+    position: absolute;
+    width: 200.65px;
+    height: 16.63px;
+    left: 157.24px;
+    top: 1200.53px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 150%;
+    color: #73738D;
+
+}
+
+.details {
+
+    position: absolute;
+    width: 200.46px;
+    height: 16.63px;
+    left: 157.24px;
+    top: 1240.8px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 150%;
+    color: #73738D;
+
+}
+
+.access {
+
+    position: absolute;
+    width: 200.56px;
+    height: 16.63px;
+    left: 300.7px;
+    top: 1200.53px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 150%;
+    color: #73738D;
+
+}
+
+.support {
+
+    position: absolute;
+    width: 200.61px;
+    height: 16.63px;
+    left: 300.7px;
+    top: 1240.8px;
+    font-family: "Gilroy-Bold";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.0889px;
+    line-height: 150%;
+    color: #73738D;
+}
+
+@media screen and (max-width: 568px){
+
+    .second_title {
+
+        position: absolute;
+        width: 600.01px;
+        height: 30.49px;
+        left: 35.07px;
+        top: 1540.06px;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16.95px;
+        line-height: 30px;
+        color: #222222;
+    
+    }
+    
+    .second_text {
+    
+        position: absolute;
+        width: 285.130px;
+        line-height: 30px;
+        left: 26.07px;
+        top: 1575.19px;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11.5542px;
+        line-height: 150%;
+        color: #73738D;
+    
+    }
+    
+    .four_girl {
+    
+        position: absolute;
+        width: 41.58px;
+        height: 41.58px;
+        left: 23.39px;
+        top: 1790.69px;
+        border-radius: 38.2012px;
+    }
+    
+    .Archana {
+    
+        position: absolute;
+        width: 200.7px;
+        height: 20.1px;
+        left: 70.29px;
+        top: 1790.47px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16.6333px;
+        line-height: 20px;
+        color: #222222;
+    
+    }
+    
+    
+    .consultant {
+    
+        position: absolute;
+        width: 200.23px;
+        height: 13.17px;
+        left: 65.29px;
+        top: 1810.34px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11.0889px;
+        line-height: 13px;
+        color: rgba(34, 34, 34, 0.8);
+    
+    }
+    
+    .information {
+    
+        position: absolute;
+        width: 200.24px;
+        height: 11.09px;
+        left: 35.39px;
+        top: 1830.91px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 9.70278px;
+        line-height: 11px;
+        color: rgba(34, 34, 34, 0.6);
+    }
+    
+    
+    .fifth_photo {
+    
+        position: absolute;
+        width: 12.48px;
+        height: 12.48px;
+        left: 35.08px;
+        top: 1860.85px;
+    }
+    
+    .sixth_photo {
+    
+        position: absolute;
+        width: 12.48px;
+        height: 12.48px;
+        left: 35.08px;
+        top: 1900.85px;
+    }
+    
+    .seventh_photo {
+    
+        position: absolute;
+        width: 12.48px;
+        height: 12.48px;
+        left: 35.08px;
+        top: 1940.85px;
+    }
+    
+    .date {
+    
+        position: absolute;
+        width: 100.07px;
+        height: 13.17px;
+        left: 52.08px;
+        top: 1848.85px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12.0889px;
+        line-height: 13px;
+        color: rgba(34, 34, 34, 0.8);
+    }
+    
+    .work {
+    
+        position: absolute;
+        width: 200.23px;
+        height: 13.17px;
+        left: 52.08px;
+        top: 1888.85px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12.0889px;
+        line-height: 13px;
+        color: rgba(34, 34, 34, 0.8);
+    }
+    
+    .travel {
+    
+        position: absolute;
+        width: 280.83px;
+        height: 13.17px;
+        left: 52.08px;
+        top: 1930.85px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 10.0889px;
+        line-height: 120%;
+        color: rgba(34, 34, 34, 0.8);
+    }
+    
+    .green_tick3 {
+    
+        position: absolute;
+        width: 9.24px;
+        height: 6.93px;
+        left: 24.07px;
+        top: 1695.69px;
+    }
+    
+    .green_tick4 {
+    
+        position: absolute;
+        width: 9.24px;
+        height: 6.93px;
+        left: 24.07px;
+        top: 1738.96px;
+    }
+    
+    .green_tick5 {
+    
+        position: absolute;
+        width: 9.24px;
+        height: 6.93px;
+        left: 180.07px;
+        top: 1695.69px;
+    }
+    
+    .green_tick6 {
+    
+        position: absolute;
+        width: 9.24px;
+        height: 6.93px;
+        left: 178.53px;
+        top: 1738.96px;
+    }
+    
+    .available {
+    
+        position: absolute;
+        width: 200.65px;
+        height: 16.63px;
+        left: 35.24px;
+        top: 1682.53px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11.0889px;
+        line-height: 150%;
+        color: #73738D;
+    
+    }
+    
+    .details {
+    
+        position: absolute;
+        width: 200.46px;
+        height: 16.63px;
+        left: 35.24px;
+        top: 1725.8px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11.0889px;
+        line-height: 150%;
+        color: #73738D;
+    
+    }
+    
+    .access {
+    
+        position: absolute;
+        width: 170.56px;
+        height: 16.63px;
+        left: 190.7px;
+        top: 1682.53px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11.0889px;
+        line-height: 150%;
+        color: #73738D;
+    
+    }
+    
+    .support {
+    
+        position: absolute;
+        width: 200.61px;
+        height: 16.63px;
+        left: 190.7px;
+        top: 1725.8px;
+        font-family: "Gilroy-Bold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11.0889px;
+        line-height: 150%;
+        color: #73738D;
+    }
+    
+    
+}  

@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('./fonts/Gilroy-bold.eot');
+    src: url('./fonts/Gilroy-bold.woff') format('woff'),
+    url('./fonts/Gilroy-bold.ttf') format('truetype');
+    font-style: normal;
+}
+
+a {
+    font-family: 'Gilroy-Bold';
+    text-decoration: none;
+    color: #73738D;
+}
+li {
+    list-style-type: none; 
+   }
+
+.letter1 {
+ color: #222222;
+}
+
+.letter2 {
+color: #222222;
+}
+
+.letter3 {
+color: #222222;
+ }
+
+.letter4 {
+color: #222222;
+}
+
+.letter5 {
+color: #222222;
+ }
+
+.letter6 {
+color: green;
+}
+
+
