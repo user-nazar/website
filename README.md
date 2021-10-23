@@ -1,5 +1,3 @@
-# web_lab1
-
- # Introduction to a new subject
+ # Responsive
  
- The first work with site development.
+ Introduction to a new subject. The first work with site development.
